@@ -1,0 +1,9 @@
+.hover-items:hover{
+    color: rgb(222, 255, 4);
+}
+
+.hover-items{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
